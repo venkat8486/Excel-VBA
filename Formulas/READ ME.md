@@ -1,1 +1,1 @@
-# This section includes the content related Excel Formulas
+# This section includes the contents related Excel Formulas
